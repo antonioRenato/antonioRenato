@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>🎃 My name is Antonio Renato<br>💻 I’m currently working on C#<br>🌱 I’m currently learning ReactJS<br>🤔 I’m looking for help with Node.js<br>💬 Ask me about C#<br>📫 How to reach me: antoniorpfs@gmail.com<br>⚡ Fun fact: I like to play RPG 🎲
+Hi there 👋<br>🎃 My name is Antonio Renato<br>💻 I’m currently working on C#<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about C#<br>📫 How to reach me: antoniorpfs@gmail.com<br>⚡ Fun fact: I like to play RPG 🎲
 
 
 ## 🌐 Socials:
